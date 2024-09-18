@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dessert-ecommerce/static/css/main.bfb7d9f2.css",
+    "main.js": "/dessert-ecommerce/static/js/main.b98769b5.js",
+    "static/js/453.a1663782.chunk.js": "/dessert-ecommerce/static/js/453.a1663782.chunk.js",
+    "index.html": "/dessert-ecommerce/index.html",
+    "main.bfb7d9f2.css.map": "/dessert-ecommerce/static/css/main.bfb7d9f2.css.map",
+    "main.b98769b5.js.map": "/dessert-ecommerce/static/js/main.b98769b5.js.map",
+    "453.a1663782.chunk.js.map": "/dessert-ecommerce/static/js/453.a1663782.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfb7d9f2.css",
+    "static/js/main.b98769b5.js"
+  ]
+}
